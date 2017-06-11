@@ -1,6 +1,10 @@
 body {
   max-width: 600px;
-  font-family: sans-serif;
+  font-family: 'Montserrat', san-serif;
+}
+p, img {
+  font-family: 'PT Sans', sans-serif;
+  margin-left: 100px;
 }
 img {
   max-width: 400px;
