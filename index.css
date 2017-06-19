@@ -1,11 +1,21 @@
 body {
-  max-width: 600px;
+  max-width: 625px;
   font-family: 'Montserrat', san-serif;
 }
-p, img {
+p, img, ol {
   font-family: 'PT Sans', sans-serif;
-  margin-left: 100px;
+  margin-left: 75px;
+}
+li {
+  padding: 10px 0;
 }
 img {
   max-width: 400px;
+  padding: 25px 75px;
+}
+img:hover {
+  filter: invert(10%);
+}
+h1 {
+  text-align: center;
 }
