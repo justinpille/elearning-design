@@ -29,10 +29,8 @@ h1 {
   text-align: center;
 }
 .anchor {
-  text-decoration: none;
-}
-.anchor:visited {
   color: inherit;
+  text-decoration: none;
 }
 .anchor > h2:hover::after {
   content: " #";
