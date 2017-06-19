@@ -1,6 +1,11 @@
-body {
+.right {
+  text-align: right;
+}
+.container {
   max-width: 625px;
   font-family: 'Montserrat', san-serif;
+  display: inline-block;
+  text-align: left;
 }
 p, img, ol {
   font-family: 'PT Sans', sans-serif;
