@@ -46,3 +46,8 @@ h1 {
 .link:hover {
   color: lightblue;
 }
+@media print {
+  img {
+    page-break-inside: avoid;
+  }
+}
